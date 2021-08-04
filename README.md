@@ -6,4 +6,4 @@ Sources for all text: Biblioteca Virtual Miguel de Cervantes: 2001, ed. Florenci
 
 Format: plain text
 
-You may use the repository for own research and cite it as: _Quijote in chapters_, edited by Nanette Rissler-Pipka (2018)'
+The content of the repository was published for long-term accessibility and reusability in the DARIAH-DE Repository: http://dx.doi.org/10.20375/0000-000C-D929-2  
